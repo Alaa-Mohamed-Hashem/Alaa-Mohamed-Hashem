@@ -1,6 +1,4 @@
-### Hi there 👋,
-
-# My name is Alaa Hashem
+### Hi there 👋, My name is Alaa Hashem
 ## Front End Developer - React.Js
 Innovative front end developer with two years experience building and
 maintaining web applications, proficient in HTML, CSS, JavaScript plus
