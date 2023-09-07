@@ -8,7 +8,6 @@ will push me to do my best to get the job done.
 
 Skills: HTML5 / CSS3 / JavaScript / React / Redux / TypeScript / Tailwind CSS / Agile / Jira / Git / GitHub.
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Angular & Node Js 
 - 📫 How to reach me: ahashem6159@gmail.com 
 
