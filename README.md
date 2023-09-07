@@ -12,6 +12,6 @@ Skills: HTML5 / CSS3 / JavaScript / React / Redux / TypeScript / Tailwind CSS / 
 - 🌱 I’m currently learning Angular & Node Js 
 - 📫 How to reach me: ahashem6159@gmail.com 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alaa-Mohamed-Hashem)  
 
 
