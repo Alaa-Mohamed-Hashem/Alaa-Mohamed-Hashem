@@ -14,11 +14,8 @@ will push me to do my best to get the job done.
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/Alaa-Mohamed-Hashem" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -34,7 +31,6 @@ will push me to do my best to get the job done.
 </a>  
 </div>  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alaa-Mohamed-Hashem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alaa-hashem-0576491a2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/lionel.alla.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/alaahashem/projects)
 
 
 
