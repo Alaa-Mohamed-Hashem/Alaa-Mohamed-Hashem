@@ -1,5 +1,5 @@
-## <div align="center">Hi there 👋, My name is Alaa Hashem</div>
-### Front End Developer - React.Js
+## <div align="center">Hi 👋, I'm Alaa Hashem</div>
+### <div align="center">Front End Developer - React.Js</div>
 Innovative front end developer with two years experience building and
 maintaining web applications, proficient in HTML, CSS, JavaScript plus
 modern libraries and frameworks, being passionate and self motivated
