@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Alaa Hashem
+#### Front End Developer - React.Js
+![Front End Developer - React.Js](https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg)
 
-<!--
-**Alaa-Mohamed-Hashem/Alaa-Mohamed-Hashem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Innovative front end developer with two years experience building and
+maintaining web applications, proficient in HTML, CSS, JavaScript plus
+modern libraries and frameworks, being passionate and self motivated
+will push me to do my best to get the job done.
 
-Here are some ideas to get you started:
+Skills: HTML5 / CSS3 / JavaScript / React / Redux / TypeScript / Tailwind CSS / Agile / Jira / Git / GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
